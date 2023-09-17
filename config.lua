@@ -11,7 +11,7 @@ Config.ATMModelsString = {
 
 Config.HackTimeOut = 5 -- in minutes
 
-Config.HackingEarnings = mathrandom(5000,10000)
+Config.HackingEarnings = math.random(5000,10000)
 
 Config.ItemName = 'hackerphone'
 
