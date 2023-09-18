@@ -13,8 +13,8 @@ Config.HackTimeOut = 5 -- in minutes
 
 Config.HackingEarnings = math.random(5000,10000)
 
-Config.ItemName = 'hackerphone'
+Config.ItemName = 'hackphone'
 
-Config.PlayersHackingItemName = 'bankaccounthack'
+Config.PlayersHackingItemName = 'bankhackphone'
 
 Config.PoliceNotifyPercentage = 100
