@@ -9,5 +9,5 @@ Second phone item will be used to hack the item and the that amount of money wil
 
 # Dependencies
 
-[mhacking] : (https://github.com/qbcore-framework/mhacking)
-[mythic_notify] : (https://github.com/zackSoftware/mythic_notify)
+* mhacking : (https://github.com/qbcore-framework/mhacking)
+* mythic_notify : (https://github.com/zackSoftware/mythic_notify)
