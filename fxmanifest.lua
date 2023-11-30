@@ -8,7 +8,7 @@ description 'ATM Scam phone'
 version '1.0.0'
 
 shared_scripts {
-    'locales/en.lua'
+    'locales/en.lua',
     'config.lua'
 }
 
@@ -19,7 +19,7 @@ client_scripts {
 
 
 server_scripts {
-    '@mysql-async/lib/MySQL.lua'
+    '@mysql-async/lib/MySQL.lua',
     '@es_extended/locale.lua',
     'server/server.lua'
 }
